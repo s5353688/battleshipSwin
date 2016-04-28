@@ -6,6 +6,10 @@ using System.Collections.Generic;
 //using System.Data;
 using System.Diagnostics;
 using SwinGameSDK;
+
+/// <summary>
+///  provides game logic(open new graphics windows, play/stop music, handle user input)
+/// </summary>
 static class GameLogic
 {
 	public static void Main()

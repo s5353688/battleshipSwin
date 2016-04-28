@@ -7,6 +7,9 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using SwinGameSDK;
 
+/// <summary>
+/// provides resources for the game (fonts, images, sounds, resources)
+/// </summary>
 public static class GameResources
 {
 
