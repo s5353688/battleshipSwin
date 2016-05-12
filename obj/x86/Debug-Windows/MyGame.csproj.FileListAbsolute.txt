@@ -15,3 +15,9 @@ C:\Users\Boudag\Desktop\branch\battleshipSwin\bin\Debug\MyGame.exe
 C:\Users\Boudag\Desktop\branch\battleshipSwin\bin\Debug\nunit.framework.dll
 C:\Users\Boudag\Desktop\branch\battleshipSwin\bin\Debug\SwinGame.dll
 C:\Users\Boudag\Desktop\branch\battleshipSwin\bin\Debug\nunit.framework.xml
+C:\Users\Home\Desktop\UNI\SEM3.16\SOFTWARE\battleshipSwin\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\UNI\SEM3.16\SOFTWARE\battleshipSwin\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\Home\Desktop\UNI\SEM3.16\SOFTWARE\battleshipSwin\bin\Debug\MyGame.exe
+C:\Users\Home\Desktop\UNI\SEM3.16\SOFTWARE\battleshipSwin\bin\Debug\nunit.framework.dll
+C:\Users\Home\Desktop\UNI\SEM3.16\SOFTWARE\battleshipSwin\bin\Debug\SwinGame.dll
+C:\Users\Home\Desktop\UNI\SEM3.16\SOFTWARE\battleshipSwin\bin\Debug\nunit.framework.xml

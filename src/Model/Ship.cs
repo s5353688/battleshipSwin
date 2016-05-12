@@ -62,15 +62,18 @@ public class Ship
 	/// <value>The topmost location of the ship</value>
 	/// <returns>the row of the ship</returns>
 	public int Row {
-		get { return _row; }
+		get { return _row; } 
+		set {_row = value; } // added by Monii on may 12th for unit testing
 	}
 
 	public int Column {
-		get { return _col; }
+		get { return _col; } 
+		set { _col = value; } // added by Monii on may 12th for unit testing
 	}
 
 	public Direction Direction {
 		get { return _direction; }
+		set {_direction = value; } // added by Monii on may 12th for unit testing
 	}
 
 	public Ship(ShipName ship)
